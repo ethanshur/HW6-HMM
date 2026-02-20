@@ -1,6 +1,10 @@
 # HW6-HMM
 
-In this assignment, you'll implement the Forward and Viterbi Algorithms (dynamic programming). 
+Description of methods:
+
+Forward: Returns the probability of an observed sequence
+
+Viterbi: Returns the most likely hidden-state path that could have produced an observed sequence
 
 
 # Assignment
